@@ -1,5 +1,6 @@
+// class Main {
 
-class Essai {
+class JeuDeDames {
 	public static void main(String[] args) {
 		for (int loop1 = 1; loop1 <= 4; loop1 = loop1 + 1) {
 
